@@ -1,5 +1,5 @@
 <h1>Wordpress with Docker Compose on GCP</h1>
-<h3> Introduction </h3>
+<h2> Introduction </h2>
 Here I am going to install Docker and want to run wordpress using docker-compose. For wordpress as you know it needs apache/nginx with php, mysql/mariadb and wordpress. I am using a simple Google Compute Engine where I have used different container for nginx, mariadb and wordpress. I will show you how those are composed.
 
 <h3> Getting Started with Docker and Docker Compose  </h3> 
